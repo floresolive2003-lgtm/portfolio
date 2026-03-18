@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Something Borrowed, Something Blue — Oliver Flores</title>
+  <link rel="stylesheet" href="../css/styles.css">
+</head>
+
+<body>
+<header>
+  <nav>
+    <a href="../index.html">Home</a>
+    <a href="../about.html">About</a>
+    <a href="something-borrowed.html">Projects</a>
+  </nav>
+</header>
+
+<div class="container">
+  <h1>Something Borrowed, Something Blue</h1>
+
+  <div class="project-img"></div>
+
+  <p>
+    This architectural project embraces adaptive reuse, breathing new life into the existing structure while blending with contemporary design principles. Wood and rubber intertwine to create dynamic textures and structural possibilities, unified by a deep blue palette that evokes fluidity and movement.
+  </p>
+
+  <p>
+    The building integrates communal and private spaces, with bridges that connect floor plates and support the artistic community within the structure.
+  </p>
+
+  <h3>Studio</h3>
+  <p>Waste Not — Spring 2025<br>
+  Kelly Bair (Coordinator), Igo Kommers-Wender, Sarah Blankenbaker, Paul Dolick</p>
+
+  <div class="project-img"></div>
+  <div class="project-img"></div>
+</div>
+
+<footer>© 2026 Oliver Flores</footer>
+</body>
+</html>
